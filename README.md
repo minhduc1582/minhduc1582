@@ -1,9 +1,9 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=minhduc1582&style=flat-square)
 
 <!--
 **minhduc1582/minhduc1582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://komarev.com/ghpvc/?username=minhduc1582&style=flat-square)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
