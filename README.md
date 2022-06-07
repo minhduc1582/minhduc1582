@@ -1,10 +1,5 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=minhduc1582&style=flat-square)
-
-<!--
-**minhduc1582/minhduc1582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 const tinspham = {
   pronouns: "He" | "Him",
   name: "Tin, Pham Van",
@@ -13,6 +8,11 @@ const tinspham = {
   education: "B.S in Software Engineer from Duy Tan University",
   major: "Front-end Developer"
 };
+<!--
+**minhduc1582/minhduc1582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
