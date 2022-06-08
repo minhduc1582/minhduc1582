@@ -30,10 +30,13 @@ const minhduc = {
 
 <p>
 	<a href="https://www.facebook.com/m.duc.158/" target="_blank">
-		<img alt="Website" src="https://img.shields.io/badge/.-minhduc-ff69b4?style=flat&logo=facebook">
+		<img alt="Facebook" src="https://img.shields.io/badge/.-minhduc-ff69b4?style=flat&logo=facebook">
 	</a>
 	<a href="mailto:minhduc2247@gmail.com">
 		<img alt="Email" src="https://img.shields.io/badge/.-minhduc2247@gmail.com-orange?style=flat&logo=gmail">
+	</a>
+	<a href="https://www.instagram.com/mduc_ld/" target="_blank">
+		<img alt="Instagram" src="https://img.shields.io/badge/.-@minhduc_ld-ff69b4?style=flat&logo=instagram">
 	</a>
 </p>
 <p align="left">
