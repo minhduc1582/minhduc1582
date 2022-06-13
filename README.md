@@ -40,7 +40,7 @@ const minhduc = {
 	</a>
 </p>
 <p align="left">
-	<a href="https://github.com/tinspham209">
+	<a href="https://github.com/minhduc1582">
 		<img src="https://komarev.com/ghpvc/?username=paulnguyen-mn">
 	</a>
 </p>
