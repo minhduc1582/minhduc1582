@@ -9,7 +9,7 @@ const minhduc = {
   location: "Da Nang city, Vietnam",
   language: ["Vietnamese", "English"],
   education: "Studying Information Technology at Danang University of Science and Technology",
-  major: "Front-end Developer"
+  major: "Back-end Developer"
 };
 ```
 
